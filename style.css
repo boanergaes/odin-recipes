@@ -1,0 +1,17 @@
+img {
+    width: 300Px;
+    height: auto;
+}
+
+.steps-containor {
+    background-color: hsl(120, 30%, 90%);
+    padding: 15px;
+    margin: 5px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    /* font-family: helvetica; */
+}
+
+.bottom {
+    height: 100px;
+}
